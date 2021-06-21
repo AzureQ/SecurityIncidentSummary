@@ -10,6 +10,7 @@ Clone the repo, then run below commands:
 ```
 cd SecurityIncidentSummary
 conda env create --file environment.yaml
+conda activate SecurityIncidentSummary
 ```
 
 Check if the conda environment - `SecurityIncidentSummary` is created successfully
